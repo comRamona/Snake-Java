@@ -13,7 +13,7 @@ public class Launcher extends JFrame {
 
 		setContentPane(new Snake());
 		setResizable(false);
-		setTitle("Address Book");
+		setTitle("Snake");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
